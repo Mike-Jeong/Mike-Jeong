@@ -1,5 +1,5 @@
 <h2>🙋‍♂️ Hi there!</h2>
-<p> 🌱 I'am studying Computer and Information Sciences in AUT 🇳🇿 </p>
+<p> 🌱 I'm studying Computer and Information Sciences in AUT 🇳🇿 </p>
 <p> 🌱 Currently, Staying in Korea 🇰🇷 </p>
 <p> 🌱 Contact : alstlr65@gmail.com </p> 
 <hr/>
