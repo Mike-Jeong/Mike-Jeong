@@ -2,6 +2,7 @@
 <p> 🌱 I'm studying Computer and Information Sciences in AUT 🇳🇿 </p>
 <p> 🌱 Currently, Staying in Korea 🇰🇷 </p>
 <p> 🌱 Contact : alstlr65@gmail.com </p> 
+<p> ☕️ I love &nbsp; <img src="https://img.shields.io/badge/Starbucks-006241?style=flat-square&logo=Starbucks&logoColor=white"/> </p> 
 <hr/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -33,7 +34,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 </p>
-
 
 <!--
 **Mike-Jeong/Mike-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
